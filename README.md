@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Poyso
-- 👀 I’m interested in Game Dev
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning C
 
 
 <!---
